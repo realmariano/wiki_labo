@@ -102,9 +102,11 @@ Hoy en día los lugares sine qua non de búsqueda bibliográfica (para física y
 * scholar.google.com (hacete un perfil), google empezó así, Sergey y Larry trabajaban en el page rank que aplicaron a bases de datos de papers inicialmente.
 * arXiv.org (repositorio de pre-prints de Cornell). Acá la gente suele poner sus pre-prints, el paper casi listo para enviar a revisión de publicación. Para que la gente le diga si está bueno o si tiene errores antes de enviarlo. Pero también para que todos podamos acceder. Cuando buscás en scholar algo, te aparece abajo la opción de “otras versiones” ahí suele estar la versión arXiv. Es libre y abierto. Y una vez publicado un paper luego se indica la versión final allí.
 
-Luego está la biblioteca de MinCyT: https://repositoriosdigitales.mincyt.gob.ar/vufind/
+Luego está la biblioteca de [MinCyT](https://repositoriosdigitales.mincyt.gob.ar/vufind/)
 
-Y si estás conectado desde instituciones tipo universidades o el INTI tenés acceso a las revistas que paga el estado para bajar los papers y libros en cuestión.
+Y si estás conectado desde instituciones tipo universidades o el INTI tenés acceso a las revistas que paga el estado para bajar los papers y libros en cuestión. Varias revistas están suscritas desde el ministerio, pero no específicamente a INTI (un ejemplo PRL), en caso de que esto pase basta tomar el DOI del artículo en cuestíon y solicitar un "préstamo" en la página de la biblioteca digital [servicio de préstamos](https://biblioteca.mincyt.gob.ar/prestamo).
+
+Finalmente, INTI tiene una muy linda biblioteca con gente muy dispuesta y capaz, siempre que tengan dudas o necesiten algún libro pueden ir a verlos o escribirles a biblio@inti.gob.ar
 
 #### Sistema non-santo: 
 
