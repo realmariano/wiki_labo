@@ -61,23 +61,26 @@ Instalar MikTeX o TeXlive y luego un editor que te guste.
  
 _Instalar LaTeX_
 
-MikTeX  https://miktex.org/   
-TeX live  https://www.tug.org/texlive/  
+[MikTeX](https://miktex.org/)   
+[TeX live](https://www.tug.org/texlive/)  
+
+La gran diferencia entre ellos (al menos al momento de escribir esto) es que el MikTeX deja bajar un mínimo de cosas e instalar _on the fly_ (cuando se usan). En cambio el TexLive baja un mega conjunto de paquetes.
 
 _Editores:_
 
-* TeXstudio	www.texstudio.org 
-* Texmaker    https://www.xm1math.net/texmaker/ 
-* TeXnicenter  https://www.texniccenter.org/ 
-* LyX   		 https://www.lyx.org/Home	Este es bastante distinto a los otros, usa una mezcla de WYSWYG (estilo Word) con LaTeX.  
+* [TeXstudio](www.texstudio.org) 
+* [Texmaker](https://www.xm1math.net/texmaker/) 
+* [TeXnicenter](https://www.texniccenter.org/) 
+* [LyX](https://www.lyx.org/Home)	Este es bastante distinto a los otros, usa una mezcla de WYSWYG (estilo Word) con LaTeX.  
+* [VSCcode](https://code.visualstudio.com/)  Este deja programar lo que sea, para que ande el LaTeX hay que bajar desde el sistema de marketplace que tiene el [LaTeX workshop extension](https://link-url-here.org), que además necesita tener instalado el [TeX live](https://www.tug.org/texlive/)
   
 Infinidad de otros que se pueden encontrar en la web.  
 
 __b- Versión web__
 
-Otra opción muy buena es Oveleaf (https://www.overleaf.com/) la ventaja es que podés hacerlo colaborativo (restringido si no se paga) y compartirlo muy fácil. Además ya te queda en la web. También, ya tiene infinidad de modelos de presentaciones, y todo anda, en el sentido que no es necesario preocuparse por la parte de compatibilidad y compilación.
+Otra opción muy buena es [Oveleaf](https://www.overleaf.com/) la ventaja es que podés hacerlo colaborativo (restringido si no se paga) y compartirlo muy fácil. Además ya te queda en la web. También, tiene infinidad de modelos de presentaciones, y todo anda, en el sentido que no es necesario preocuparse por la parte de compatibilidad y compilación, se encarga el server web de todo esto.
 
-Otra opción son las notebooks de Jupyter o Jupyterlab (https://jupyter.org/), que te deja armarte un Notebook que además te permite mezclar código, figuras, Markdown, Latex y exportar en el formato que más te convenga. 
+Otra opción son las notebooks de [Jupyter](https://jupyter.org/) o [Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/), o de [Google Colab](colab.research.google.com/) que te deja armarte un Notebook que además te permite mezclar código, figuras, Markdown, Latex y exportar en el formato que más te convenga. 
 
 ### Repositorio/webcloud:  
 
