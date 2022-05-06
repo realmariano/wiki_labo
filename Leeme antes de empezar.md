@@ -118,12 +118,13 @@ LibGen, idem anterior para libros digitales. También tiene un bot en Telegram c
 
 Ahora bien, uno se baja una banda de papers. Que se asume leimos y entendemos aunque lo segundo y muchas veces lo primero, no siempre sucede. Y surgen dos problemas: mantenerlos ordenados y citarlos en nuestros escritos sin que sea un incordio. Para esto se usan los gestores de librerías, se pueden buscar todos los que hay en Wiki, yo probé los siguientes:
 
-_Mendeley_ gratis, multiplataforma y te permite mantener coordinación con varias máquinas. Tiene el problema que si la base se vuelve grande se pone lento y medio complicado. No es abierto y pertenece a Elsevier. Te asocia los pdf a los registros de cita y te los ordena de la forma que desees. Además si le indicás una carpeta te busca todos los trabajos que hay ahí mira en la web la información y te la adosa automáticamente. Es muy completo e hyper sencillo de usar.
+[Mendeley](https://www.mendeley.com/) gratis, multiplataforma y te permite mantener coordinación con varias máquinas. Tiene el problema que si la base se vuelve grande se pone lento y medio complicado. No es abierto y pertenece a Elsevier. Te asocia los pdf a los registros de cita y te los ordena de la forma que desees. Además si le indicás una carpeta te busca todos los trabajos que hay ahí mira en la web la información y te la adosa automáticamente. Es muy completo e hyper sencillo de usar. En mi caso, lo dejé de usar hace un tiempo porque se me puso muy pesado y me generaba problemas con algunas referencias, sé que ha mejorado mucho desde esa época.
 
-_Zotero_: abierto, multiplataforma, portable, etc, etc, etc. Lo podés llevar en un pendrive por ejemplo y correrlo desde ahí. La desventaja que le vi es que la base de datos y el manejo de los pdf se vuelve un tanto complicada, si uno pierde la info o tiene algún problema. Los pdf quedan asociados a una entrada de la base (es un número) y no están todos juntos en algún lugar, queda cada uno dentro de una subcarpeta con el número de la base de datos. Es extremadamente probable que haya soluciones elegantes y sencillas a los problemas que le ví. 
+[Zotero](https://www.zotero.org/): abierto, multiplataforma, portable, etc, etc, etc. Lo podés llevar en un pendrive por ejemplo y correrlo desde ahí. La desventaja que le vi es que la base de datos y el manejo de los pdf se vuelve un tanto complicada, si uno pierde la info o tiene algún problema. Los pdf quedan asociados a una entrada de la base (es un número) y no están todos juntos en algún lugar, queda cada uno dentro de una subcarpeta con el número de la base de datos. Es extremadamente probable que haya soluciones elegantes y sencillas a los problemas que le ví. 
 
-_JabRef_: similar a Zotero, abierto, multiplataforma, portable y funciona bien y rápido. Tiene sus bemoles respecto a importación de cosas. También te busca todos los trabajos que hay en una carpeta determinada automáticamente.
+[JabRef](https://www.jabref.org/): similar a Zotero, abierto, multiplataforma, portable y funciona bien y rápido. Tiene sus bemoles respecto a importación de cosas. También te busca todos los trabajos que hay en una carpeta determinada automáticamente. Y sumás las referencias muy fácil con el formato bib. Además para muchos papers te da referencias de otros que son de temáticas similares y te pueden interesar.
 
+Bibliografía de la bibliografía: cuando uno tiene un paper tiene un montón de referencias, la única forma que encontré por el momento de bajarlas
 
 ### Metrología
 
@@ -151,3 +152,33 @@ Equivalentes del INTI en el mundo
 *   VSL - Países BAjos https://www.vsl.nl/en
 
 Y un montón más.  
+
+### Patentes y propiedad intelectual
+* [Google Scholar](scholar.google.com) poniendo a la izquierda _mostrar sólo patentes_ o también en 
+* [Google Patents](patents.google.com)
+* [OMPI/WIPO]( https://www.wipo.int/about-ip/es/index.html) base de datos internacional de patentes
+* [Patent Scope](https://patentscope.wipo.int/search/es/search.jsf)
+      • Página oficial de la WIPO / OMPI
+      • +84 millones de documentos, + 42 países
+      • Búsquedas multilingües
+      • Sistema de traducción automática (Wipo Translate)
+      • CLIR (Cross-Lingual Information Retrieval)
+      • Título, Resumen, Reivindicaciones, Texto completo, CIP
+      • Búsqueda por figuras
+      • Graficas estadísticas
+      • Función stemming (acid: acidity, acidic)
+      • RSS
+* [INPI](https://www.argentina.gob.ar/inpi) oficina Arg. de patentes
+* [INPI búsqueda](https://www.argentina.gob.ar/inpi/patentes/buscar-e-investigar-patentes)
+* [USPTO](https://www.uspto.gov/) oficina USA de patentes
+* [OEPM](https://www.oepm.es/es/index.html) oficina española de patentes
+* [Espacenet](https://worldwide.espacenet.com) oficina europea de patentes
+* [Lens](https://www.lens.org/)
+      • +96M, +90 países
+      • Búsqueda por palabras en varios idiomas
+      • Título, Resumen, Reivindicaciones (en forma individual o en conjunto)
+      • Incorpora documentos científicos (PUBMED)
+      • Buscador de clasificaciones CPC / CIP
+      • Gráficas estadísticas (muy bunas)
+      • Función stemming (acid: acidity, acidic)     
+    
