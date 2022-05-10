@@ -99,7 +99,7 @@ __Si usás un cuaderno digital, es fundamental que todo lo tengas respaldado en 
 
 Hoy en día los lugares sine qua non de búsqueda bibliográfica (para física y electrónica al menos) son:
 
-* scholar.google.com (hacete un perfil), google empezó así, Sergey y Larry trabajaban en el page rank que aplicaron a bases de datos de papers inicialmente.
+* scholar.google.com (hacete un perfil), google empezó así, Sergey y Larry trabajaban en el page rank que aplicaron a bases de datos de papers inicialmente. Hoy en día tiene muchos adicionales. La posiblidad de asociar un ___perfil___, donde guarda ___tus publicaciones___ y presentaciones a congresos con referato. También tiene la posibilidad de salvar papers en ___tu biblioteca___ etiquetar y ordenar. Podés exportar citas en diferentes formatos, en particular en .bib tanto de trabajos individuales como en bulk con el botón exportar.
 * arXiv.org (repositorio de pre-prints de Cornell). Acá la gente suele poner sus pre-prints, el paper casi listo para enviar a revisión de publicación. Para que la gente le diga si está bueno o si tiene errores antes de enviarlo. Pero también para que todos podamos acceder. Cuando buscás en scholar algo, te aparece abajo la opción de “otras versiones” ahí suele estar la versión arXiv. Es libre y abierto. Y una vez publicado un paper luego se indica la versión final allí.
 
 Luego está la biblioteca de [MinCyT](https://repositoriosdigitales.mincyt.gob.ar/vufind/)
