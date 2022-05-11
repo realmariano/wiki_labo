@@ -84,12 +84,16 @@ Otra opción son las notebooks de [Jupyter](https://jupyter.org/) o [Jupyterlab]
 
 ### Repositorio/webcloud:  
 
-Es muy importante que tengas un buen respaldo y control de versión para lo que programes:  
-GitHub es la opción más usual. Sirve sólo para que subas programas, notas o similar (texto) que no incluya mediciones muy grandes o muchas imágenes (creo te dan de baja la cuenta si lo hacés, y no es la idea del servicio). 
+Es muy importante que tengas un buen respaldo y control de versión para lo que programes, midas y hagas.
+__Git__, que fue ideado y programado por Linus Torvalds (el mismo del kernel de Linux), es uno de los mejores.
+En esta direccion hay varios servicios:
+[GitHub](https://github.com) es la opción más usual. Sirve sólo para que subas programas, notas o similar (texto) que no incluya mediciones muy grandes o muchas imágenes (creo te dan de baja la cuenta si lo hacés, y no es la idea del servicio). 
 Otra ventaja es que es muy sencillo compartir cosas de esta forma.  
-Git fue ideado y programado por Linus Torvalds (el mismo del kernel de Linux). 
+
+Del mismo estilo (más controlable) es [GitLab](https://about.gitlab.com).
 
 Otras opciones son subversion, por ejemplo.
+Y por supuesto sistemas como Gdrive, OneDrive, Mega, Box, Dropbox, o directamente un servidor.
 
 
 __Si usás un cuaderno digital, es fundamental que todo lo tengas respaldado en algún lado de tu preferencia.__ 
