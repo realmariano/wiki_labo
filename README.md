@@ -6,3 +6,6 @@ This repo is intended for new people and students at the Quantum Standards Depar
 
 IT includes some important stuff they should know.
 
+
+__A modificar__
+Tengo que sumar acá un link a los diferentes archivos que hay en este repo
