@@ -76,11 +76,18 @@ _Editores:_
   
 Infinidad de otros que se pueden encontrar en la web.  
 
+
 __b- Versión web__
 
 Otra opción muy buena es [Oveleaf](https://www.overleaf.com/) la ventaja es que podés hacerlo colaborativo (restringido si no se paga) y compartirlo muy fácil. Además ya te queda en la web. También, tiene infinidad de modelos de presentaciones, y todo anda, en el sentido que no es necesario preocuparse por la parte de compatibilidad y compilación, se encarga el server web de todo esto.
 
 Otra opción son las notebooks de [Jupyter](https://jupyter.org/) o [Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/), o de [Google Colab](colab.research.google.com/) que te deja armarte un Notebook que además te permite mezclar código, figuras, Markdown, Latex y exportar en el formato que más te convenga. 
+
+#### Incluir bibliografía
+
+Seguro usar bibTeX, una buena opción es usar natbib de backend, ver 
+[natbib1](https://gking.harvard.edu/files/natbib2.pdf)
+[natbib2](http://merkel.texture.rocks/Latex/natbib.php?lang=en) para opciones y estilos
 
 ### Repositorio/webcloud:  
 
