@@ -103,7 +103,7 @@ Otras opciones son subversion, por ejemplo.
 Y por supuesto sistemas como Gdrive, OneDrive, Mega, Box, Dropbox, o directamente un servidor.
 
 
-__Si usás un cuaderno digital, es fundamental que todo lo tengas respaldado en algún lado de tu preferencia.__ 
+__Si usás un cuaderno digital, es fundamental que todo lo tengas respaldado en algún lugar de tu preferencia.__ 
 
 
 ### Papers, libros y mantener bibliografía
