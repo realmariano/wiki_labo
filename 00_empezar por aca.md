@@ -129,11 +129,19 @@ LibGen, idem anterior para libros digitales. También tiene un bot en Telegram c
 
 Ahora bien, uno se baja una banda de papers. Que se asume leimos y entendemos aunque lo segundo y muchas veces lo primero, no siempre sucede. Y surgen dos problemas: mantenerlos ordenados y citarlos en nuestros escritos sin que sea un incordio. Para esto se usan los gestores de librerías, se pueden buscar todos los que hay en Wiki, yo probé los siguientes:
 
+[JabRef](https://www.jabref.org/): similar a Zotero, abierto, multiplataforma, portable, funciona bien y es rápido, tiene sus bemoles respecto a importación. Te busca todos los trabajos que hay en una carpeta determinada automáticamente. Y sumás las referencias muy fácil con el formato bib. Además para muchos papers te da referencias de otros que son de temáticas similares y te pueden interesar.
+
+Una forma sencilla de manejar los pdf asociados a cada entrada en este es simplemente poner las bases .bib (los archivos que genera con nuestra bibliografía) en una carpeta raíz y a partir de ella ir metiendo todos los archivos pdf en subcarpetas (ordanado como querramos). 
+
+Por ejemplo: ../miBiblio/papers_1/el_paper.pdf. 
+Y tener en ../miBiblio/miBase.bib
+En este ejemplo en miBiblio tenemos la base y los paper en la subcarpeta *papers_1*. La ventaja es que así podemos usar cualquier sistema de servicio web de almacenamiento de archivos y la asociación de nuestros pdf no se pierde. En el momento de escribir esto, yo tengo mis archivos en OneDrive/biblio/ así sin importar de qué compu abro el JabRef me toma todas las asociaciones de PDF sin problemas.
+
 [Mendeley](https://www.mendeley.com/) gratis, multiplataforma y te permite mantener coordinación con varias máquinas. Sin embargo, si la base se vuelve grande se pone lento y medio complicado, además, no es abierto (pertenece a Elsevier). Asocia los pdf a los registros de cita y los ordena de la forma que desees, y si le indicás una carpeta, puede buscar todos los trabajos que hay en ella y asociar desde la web la información faltante y la incluye automáticamente. Es muy completo e hyper sencillo de usar. En mi caso, lo dejé de usar hace un tiempo porque se volvió muy pesado y me generaba problemas con algunas referencias, sé que ha mejorado mucho desde esa época.
 
 [Zotero](https://www.zotero.org/): abierto, multiplataforma, portable, etc, etc, etc. Lo podés llevar en un pendrive por ejemplo y correrlo desde ahí. La desventaja que le vi es que la base de datos y el manejo de los pdf se vuelve un tanto complicada, principalmente si uno pierde la info o tiene algún problema. Los pdf quedan asociados a una entrada de la base (es un número) y no están todos juntos en algún lugar, queda cada uno dentro de una subcarpeta con el número de la base de datos. Es extremadamente probable que haya soluciones elegantes y sencillas a los problemas que le ví pero no llegué al punto de solucionarlos. 
 
-[JabRef](https://www.jabref.org/): similar a Zotero, abierto, multiplataforma, portable y funciona bien y es rápido, tiene sus bemoles respecto a importación. Como los anteriores, te busca todos los trabajos que hay en una carpeta determinada automáticamente. Y sumás las referencias muy fácil con el formato bib. Además para muchos papers te da referencias de otros que son de temáticas similares y te pueden interesar.
+
 
 
 ### Metrología
