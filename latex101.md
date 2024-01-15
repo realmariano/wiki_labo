@@ -13,6 +13,22 @@ Volviendo al quid de la cuestión, LaTeX es muy bueno y es ideal que uno lo use,
 La idea de este texto es incluir cosas que se pueden necesitar normalmente, pero no ser completo, para esto hay muchos mejores introducciones.
 
 
-En _Overleaf_ está la posiblididad de hacer corrección ortográfica en el idioma que uno quiera yendo al menú ![Idioma Overleaf](/figures/overleafIdioma.png "Elegir idioma en overleaf")
+En _Overleaf_ está la posiblididad de hacer corrección ortográfica en el idioma que uno quiera yendo a _menu_, como se muestra en la siguiente imagen 
+![Idioma Overleaf](/figures/overleafIdioma.png "Elegir idioma en overleaf")
+y de allí se pueden seleccionar varias cosas, el idioma entre ellas.
+
+Además, se puede elegir el archivo .tex principal que uno utiliza, esto es importante cuando estamos haciendo varias versiones. Si no cambiamos acá va a seguir compilando con el viejo.
+
+### Paquetes de LaTeX
+
+Para incluir paquetes usamos en el prefacio, antes de que empiece el documento con '\begin{document}', la sentencia '\usepackage{PAQUETE}'. 
+En general la página de Overleaf tiene muchos y buenos ejemplos de los distitntos paquetes. Pero cada paquete tiene su repo en CTAN <https://ctan.org/> y nos indica cómo usarlo. 
+
+A continuación una lista de aquellos usuales que son importantes poner, no dudes en incluir otros y hacer un comit para que se sumen a este texto:
+
+
+1. __siunitx__ Este paquete te sirve para incluir unidades en el SI, <https://ctan.org/pkg/siunitx?lang=en>, <https://texdoc.org/serve/siunitx/0>. En el segundo link se muestra todo lo relacionado al paquete y dan ejemplos de cómo usarlo.
+2. __graphicx__ Para inclusión de gráficos.
+3. __hyperref__ Para hacer hipervínculos entre secciones y gráficos. Se pueden elegir colores y muchas más cosas
 
 
