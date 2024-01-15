@@ -13,6 +13,6 @@ Volviendo al quid de la cuestión, LaTeX es muy bueno y es ideal que uno lo use,
 La idea de este texto es incluir cosas que se pueden necesitar normalmente, pero no ser completo, para esto hay muchos mejores introducciones.
 
 
-En _Overleaf_ está la posiblididad de hacer corrección ortográfica en el idioma que uno quiera yendo al menú ![overleafIdioma](/imagenes/overleafIdioma.png "Elegir idioma en overleaf")
+En _Overleaf_ está la posiblididad de hacer corrección ortográfica en el idioma que uno quiera yendo al menú ![Idioma Overleaf](/figures/overleafIdioma.png "Elegir idioma en overleaf")
 
 
