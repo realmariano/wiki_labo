@@ -1,7 +1,7 @@
 # Leeme antes de empezar  
 
 2021-10  
-_Mariano A Real_
+[_Mariano A Real_](mreal@inti.gob.ar)
 
 <!-- TOC -->
 
@@ -13,6 +13,8 @@ _Mariano A Real_
       3. [Papers, libros y mantener bibliografía](#papers-libros-y-mantener-bibliografía)
          1. [Sistema non-santo:](#sistema-non-santo)
       4. [Metrología](#metrología)
+         1. [Realización de las unidades eléctricas](#Realización-de-las-unidades-eléctricas)
+         2. [Patentes y propiedad intelectual](#Patentes-y-propiedad-intelectual)
 
 <!-- /TOC -->
 
@@ -170,6 +172,13 @@ Equivalentes del INTI en el mundo
 *   VSL - Países BAjos https://www.vsl.nl/en
 
 Y un montón más.  
+
+### Realización de las unidades eléctricas:
+
+__Hay que sumar mucha info aún__
+
+Las unidades se pueden realizar de muchas formas, pero el [BIPM](www.bipm.org) nos da las llamadas [_Mise en pratique_](https://www.bipm.org/en/publications/mises-en-pratique) que nos dan guías de las realizaciones sugeridas. En particular de la realización del ohm, volt y [ampere ](https://www.bipm.org/documents/20126/41489676/SI-App2-ampere.pdf/0987a90e-051b-dd7f-827d-3f7b32751a61https://www.bipm.org/documents/20126/41489676/SI-App2-ampere.pdf/0987a90e-051b-dd7f-827d-3f7b32751a61).
+
 
 ### Patentes y propiedad intelectual
 * [Google Scholar](scholar.google.com) poniendo a la izquierda _mostrar sólo patentes_ o también en 
