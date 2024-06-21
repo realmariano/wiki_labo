@@ -112,14 +112,24 @@ __Si usás un cuaderno digital, es fundamental que todo lo tengas respaldado en 
 
 Hoy en día los lugares sine qua non de búsqueda bibliográfica (para física y electrónica al menos) son:
 
-* scholar.google.com (hacete un perfil), google empezó así, Sergey y Larry trabajaban en el page rank que aplicaron a bases de datos de papers inicialmente. Hoy en día tiene muchos adicionales. La posiblidad de asociar un ___perfil___, donde guarda ___tus publicaciones___ y presentaciones a congresos con referato. También tiene la posibilidad de salvar papers en ___tu biblioteca___ etiquetar y ordenar. Podés exportar citas en diferentes formatos, en particular en .bib tanto de trabajos individuales como en bulk con el botón exportar.
-* arXiv.org (repositorio de pre-prints de Cornell). Acá la gente suele poner sus pre-prints, el paper casi listo para enviar a revisión de publicación. Para que la gente le diga si está bueno o si tiene errores antes de enviarlo. Pero también para que todos podamos acceder. Cuando buscás en scholar algo, te aparece abajo la opción de “otras versiones” ahí suele estar la versión arXiv. Es libre y abierto. Y una vez publicado un paper luego se indica la versión final allí.
+* [scholar.google.com](scholar.google.com) (hacete un perfil), google empezó así, Sergey y Larry trabajaban en el page rank que aplicaron a bases de datos de papers inicialmente. Hoy en día tiene muchos adicionales. La posiblidad de asociar un ___perfil___, donde guarda ___tus publicaciones___ y presentaciones a congresos con referato. También tiene la posibilidad de salvar papers en ___tu biblioteca___ etiquetar y ordenar. Podés exportar citas en diferentes formatos, en particular en .bib tanto de trabajos individuales como en bulk con el botón exportar.
+* [arXiv](https://arxiv.org/) (repositorio de pre-prints de Cornell). Acá la gente suele poner sus pre-prints, el paper casi listo para enviar a revisión de publicación. Para que la gente le diga si está bueno o si tiene errores antes de enviarlo. Pero también para que todos podamos acceder. Cuando buscás en scholar algo, te aparece abajo la opción de “otras versiones” ahí suele estar la versión arXiv. Es libre y abierto. Y una vez publicado un paper luego se indica la versión final allí.
+* [semantic scholar](https://www.semanticscholar.org/) este no lo utilicé mucho aún, pero se está empezando a usar.
 
 Luego está la biblioteca de [MinCyT](https://repositoriosdigitales.mincyt.gob.ar/vufind/)
 
 Y si estás conectado desde instituciones tipo universidades o el INTI tenés acceso a las revistas que paga el estado para bajar los papers y libros en cuestión. Varias revistas están suscritas desde el ministerio, pero no específicamente a INTI (un ejemplo PRL), en caso de que esto pase basta tomar el DOI del artículo en cuestíon y solicitar un "préstamo" en la página de la biblioteca digital [servicio de préstamos](https://biblioteca.mincyt.gob.ar/prestamo).
 
 Finalmente, INTI tiene una muy linda biblioteca con gente muy dispuesta y capaz, siempre que tengan dudas o necesiten algún libro pueden ir a verlos o escribirles a biblio@inti.gob.ar
+
+#### Identificandote
+
+Actualmente muchos sitios buscan poder correlacionar correctamente a los autores con las citas, particularmente porque no es sencillo hacerlo cuando los autores deben traducir su numbre (usan alfabetos distintos al nuestro).
+
+Por ello suele solicitarse tener una cuenta en [ORCID](https://orcid.org/):
+*_ORCID, which stands for Open Researcher and Contributor ID, is a global, not-for-profit organization sustained by fees from our member organizations. We are community-built and governed by a Board of Directors representative of our membership with wide stakeholder representation. ORCID is supported by a dedicated and knowledgeable professional staff._
+*_ORCID’s vision is a world where all who participate in research, scholarship, and innovation are uniquely identified and connected to their contributions across disciplines, borders, and time._
+
 
 #### Sistema non-santo: 
 
