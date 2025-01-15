@@ -218,4 +218,21 @@ Las unidades se pueden realizar de muchas formas, pero el [BIPM](www.bipm.org) n
       • Buscador de clasificaciones CPC / CIP
       • Gráficas estadísticas (muy bunas)
       • Función stemming (acid: acidity, acidic)     
-    
+
+
+## Escribir un buen informe/paper
+
+Es fundamental hacerlo con tiempo, siempre lo decimos y pensamos, pero después estamos a último momento a las corridas. 
+Tomate tiempo, empezá temprano.
+
+Un excelente artículo de qué tener en cuenta es de
+[Michael Black](https://medium.com/@black_51980/writing-a-good-scientific-paper-c0f8af480c91)
+
+Idealmente hacelo en $LaTeX$, usá los paquetes de bibliografía, modificá los gráficos para que se __VEAN__ los números y los ejes.
+Diagramá, pensá que es una historia, no te vayas por las ramas, ir al grano y "venderlo" bien es muy importante. 
+Cada parte debe tener un porqué y estar asociada a la idea principal que estamos presentando.
+La información la repetimos varias veces: en el _abstract_ contamos qué hicimos, qué nos dió y la conclusión principal. En la _intro_ contamos lo que vamos a mostrar, la hipótesis y por qué es interesante, quienes hicieron algo antes y qué nos dio. En el _desarrollo_ contamos el arreglo exp. lo que nos dió y por qué dio así, qué podríamos mejorar. En las _conclusiones_ contamos lo que hicimos, qué dió y qué concluimos.
+Pero mejor leelo del artículo de [Black](https://medium.com/@black_51980/writing-a-good-scientific-paper-c0f8af480c91), es mucho mejor.
+
+
+
