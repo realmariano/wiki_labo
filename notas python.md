@@ -15,7 +15,7 @@ SOLUTIONS:
 
 In my case the use of a specific terminator solved the problem, so when calling the instrument make sure to include a terminator:
 
-'''python
+```python
     def connect(self):
         rm = pyvisa.ResourceManager()
         self.instrument = rm.open_resource(self.resource_name)
@@ -23,7 +23,7 @@ In my case the use of a specific terminator solved the problem, so when calling 
         self.instrument.write_termination = '\n'
         self.instrument.timeout = 5000
         print(f"Connected to Multimeter 3458A: {self.instrument.query('*IDN?')}")
-'''
+```
 
 ## Python issues
 
